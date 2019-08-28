@@ -1,15 +1,1 @@
 hellow world
-你好
-他好
-我也好
-aaa
-bbb
-
-
-<<<<<<< .mine
-
-
-=======
-
-
->>>>>>> .theirs
