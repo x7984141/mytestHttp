@@ -1,6 +1,5 @@
 hellow world
-aaaaa
-bbbbb
-ccccc
-ddddd
+你好
+他好
+我也好
 
