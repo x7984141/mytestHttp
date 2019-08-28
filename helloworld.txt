@@ -1,7 +1,15 @@
+hellow world
+你好
+他好
+我也好
 aaaa
 bbbb
-cccc
-dddd
 
 
+<<<<<<< .mine
 
+
+=======
+
+
+>>>>>>> .theirs
